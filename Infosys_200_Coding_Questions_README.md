@@ -79,11 +79,11 @@ Questions marked **PYQ/Official-style** are based on official Infosys sample/pas
 - [ ] **01.43** — String Compression — `Two pointers` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/string-compression/)
 - [ ] **01.44** — Run-Length Encoding — `String simulation` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Run-Length+Encoding)
 - [ ] **01.45** — Minimum Window Substring — `Sliding window` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/minimum-window-substring/)
-- [ ] **01.46** — Find All Anagrams in a String — `Sliding window` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [✅] **01.46** — Find All Anagrams in a String — `Sliding window` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [ ] **01.47** — Longest Common Prefix — `String` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] **01.48** — Implement strstr — `String matching` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Implement+strstr)
 - [ ] **01.49** — String to Integer (atoi) — `Parsing` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/string-to-integer-atoi/)
-- [ ] **01.50** — Count Distinct Elements in Every Window — `Sliding window + hash map` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/contains-duplicate-ii/)
+- [✅] **01.50** — Count Distinct Elements in Every Window — `Sliding window + hash map` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/contains-duplicate-ii/)
 
 ## 02 — Greedy, Sliding Window & Binary Search
 
@@ -114,10 +114,10 @@ Questions marked **PYQ/Official-style** are based on official Infosys sample/pas
 - [ ] **02.25** — Task Scheduler — `Greedy / counting` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/task-scheduler/)
 - [ ] **02.26** — Sliding Window Maximum — `Deque` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/sliding-window-maximum/)
 - [ ] **02.27** — First Negative in Every Window — `Deque` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=First+Negative+in+Every+Window)
-- [ ] **02.28** — Maximum Sum of Fixed Window — `Sliding window` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Maximum+Sum+of+Fixed+Window)
+- [✅] **02.28** — Maximum Sum of Fixed Window — `Sliding window` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Maximum+Sum+of+Fixed+Window)
 - [ ] **02.29** — Minimum Size Subarray Sum — `Sliding window` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [ ] **02.30** — Longest Repeating Character Replacement — `Sliding window` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] **02.31** — Permutation in String — `Sliding window` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/permutation-in-string/)
+- [✅] **02.31** — Permutation in String — `Sliding window` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/permutation-in-string/)
 - [ ] **02.32** — Fruit Into Baskets — `Sliding window` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/fruit-into-baskets/)
 - [ ] **02.33** — Max Consecutive Ones III — `Sliding window` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Max+Consecutive+Ones+III)
 - [ ] **02.34** — Binary Subarrays With Sum — `Sliding window / prefix` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/binary-subarrays-with-sum/)
