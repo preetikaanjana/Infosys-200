@@ -134,9 +134,9 @@ Questions marked **PYQ/Official-style** are based on official Infosys sample/pas
 - [✅] **02.45** — Allocate Minimum Pages — `Binary search on answer` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Allocate+Minimum+Pages)
 - [✅] **02.46** — Split Array Largest Sum — `Binary search on answer` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/split-array-largest-sum/)
 - [ ] **02.47** — Median of Two Sorted Arrays — `Binary search` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [ ] **02.48** — Nth Root of a Number — `Binary search` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Nth+Root+of+a+Number)
-- [ ] **02.49** — Minimum Days to Make Bouquets — `Binary search on answer` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
-- [ ] **02.50** — Painter's Partition — `Binary search on answer` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Painter%27s+Partition)
+- [✅] **02.48** — Nth Root of a Number — `Binary search` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Nth+Root+of+a+Number)
+- [✅] **02.49** — Minimum Days to Make Bouquets — `Binary search on answer` — *Practice* — [Practice: LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+- [✅] **02.50** — Painter's Partition — `Binary search on answer` — *Practice* — [Practice: GFG search](https://www.geeksforgeeks.org/search/?q=Painter%27s+Partition)
 
 ## 03 — Trees, Graphs & Advanced Data Structures
 
