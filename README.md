@@ -12,30 +12,30 @@
 
 ### Basic Array Problems
 
--   [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
--   [ ] [Majority
+-   [✅] [Two Sum](https://leetcode.com/problems/two-sum/)
+-   [✅] [Majority
     Element](https://leetcode.com/problems/majority-element/)
--   [ ] [Maximum Subarray --- Kadane's
+-   [✅] [Maximum Subarray --- Kadane's
     Algorithm](https://leetcode.com/problems/maximum-subarray/)
--   [ ] [Best Time to Buy and Sell
+-   [✅] [Best Time to Buy and Sell
     Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
--   [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
--   [ ] [Sort Colors --- 0, 1,
+-   [✅] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+-   [✅] [Sort Colors --- 0, 1,
     2](https://leetcode.com/problems/sort-colors/)
--   [ ] [Rearrange Array Elements by
+-   [✅] [Rearrange Array Elements by
     Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
--   [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
--   [ ] [Merge Sorted
+-   [✅] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+-   [✅] [Merge Sorted
     Array](https://leetcode.com/problems/merge-sorted-array/)
--   [ ] [Intersection of Two
+-   [✅] [Intersection of Two
     Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
--   [ ] [Intersection of Two Arrays
+-   [✅] [Intersection of Two Arrays
     II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
--   [ ] [Leaders in an
+-   [✅] [Leaders in an
     Array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
--   [ ] [Longest Consecutive
+-   [✅] [Longest Consecutive
     Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
--   [ ] [Product of Array Except
+-   [✅] [Product of Array Except
     Self](https://leetcode.com/problems/product-of-array-except-self/)
 -   [ ] [Subarray Sum Equals
     K](https://leetcode.com/problems/subarray-sum-equals-k/)
@@ -44,7 +44,7 @@
 
 ### Intermediate / Important Arrays
 
--   [ ] [Maximum Product
+-   [✅] [Maximum Product
     Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 -   [ ] [Trapping Rain
     Water](https://leetcode.com/problems/trapping-rain-water/)
@@ -59,8 +59,8 @@
     Triangle](https://leetcode.com/problems/pascals-triangle/)
 -   [ ] [Find the Duplicate
     Number](https://leetcode.com/problems/find-the-duplicate-number/)
--   [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
--   [ ] [Single Number](https://leetcode.com/problems/single-number/)
+-   [✅] [Missing Number](https://leetcode.com/problems/missing-number/)
+-   [✅] [Single Number](https://leetcode.com/problems/single-number/)
 -   [ ] [Find All Numbers Disappeared in an
     Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 -   [ ] [Maximum Difference / Stock-style Greedy Array
@@ -72,15 +72,15 @@
 
 ### Basic Strings
 
--   [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
+-   [✅] [Reverse String](https://leetcode.com/problems/reverse-string/)
 -   [ ] [Reverse Words in a
     String](https://leetcode.com/problems/reverse-words-in-a-string/)
--   [ ] [Valid
+-   [✅] [Valid
     Palindrome](https://leetcode.com/problems/valid-palindrome/)
--   [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
--   [ ] [First Unique Character in a
+-   [✅] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+-   [✅] [First Unique Character in a
     String](https://leetcode.com/problems/first-unique-character-in-a-string/)
--   [ ] [Remove Duplicate Letters /
+-   [✅] [Remove Duplicate Letters /
     Characters](https://leetcode.com/problems/remove-duplicate-letters/)
 -   [ ] [Longest Common
     Prefix](https://leetcode.com/problems/longest-common-prefix/)
@@ -110,12 +110,12 @@
 
 ## 3. Hashing
 
--   [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
--   [ ] [Majority
+-   [✅] [Two Sum](https://leetcode.com/problems/two-sum/)
+-   [✅] [Majority
     Element](https://leetcode.com/problems/majority-element/)
--   [ ] [First Unique
+-   [✅] [First Unique
     Character](https://leetcode.com/problems/first-unique-character-in-a-string/)
--   [ ] [Longest Consecutive
+-   [✅] [Longest Consecutive
     Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 -   [ ] [Subarray Sum Equals
     K](https://leetcode.com/problems/subarray-sum-equals-k/)
@@ -156,14 +156,14 @@
 
 ### Two Pointers
 
--   [ ] [Two Sum II --- Sorted
+-   [✅] [Two Sum II --- Sorted
     Array](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
--   [ ] [3Sum](https://leetcode.com/problems/3sum/)
+-   [✅] [3Sum](https://leetcode.com/problems/3sum/)
 -   [ ] [Container With Most
     Water](https://leetcode.com/problems/container-with-most-water/)
 -   [ ] [Remove Duplicates from Sorted
     Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
--   [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+-   [✅] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 ------------------------------------------------------------------------
 
@@ -171,18 +171,18 @@
 
 ### Basic
 
--   [ ] Binary Search
+-   [✅] Binary Search
 -   [ ] [Search Insert
     Position](https://leetcode.com/problems/search-insert-position/)
--   [ ] [First and Last Position of
+-   [✅] [First and Last Position of
     Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 -   [ ] Count Occurrences in Sorted Array
--   [ ] [Find Peak
+-   [✅] [Find Peak
     Element](https://leetcode.com/problems/find-peak-element/)
 
 ### Rotated Arrays
 
--   [ ] [Search in Rotated Sorted
+-   [✅] [Search in Rotated Sorted
     Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 -   [ ] [Search in Rotated Sorted Array
     II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
