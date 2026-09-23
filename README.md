@@ -172,11 +172,11 @@
 ### Basic
 
 -   [✅] Binary Search
--   [ ] [Search Insert
+-   [✅] [Search Insert
     Position](https://leetcode.com/problems/search-insert-position/)
 -   [✅] [First and Last Position of
     Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
--   [ ] Count Occurrences in Sorted Array
+-   [✅] Count Occurrences in Sorted Array
 -   [✅] [Find Peak
     Element](https://leetcode.com/problems/find-peak-element/)
 
@@ -184,9 +184,9 @@
 
 -   [✅] [Search in Rotated Sorted
     Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
--   [ ] [Search in Rotated Sorted Array
+-   [✅] [Search in Rotated Sorted Array
     II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
--   [ ] [Find Minimum in Rotated Sorted
+-   [✅] [Find Minimum in Rotated Sorted
     Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
 ### Binary Search on Answer

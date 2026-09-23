@@ -90,12 +90,12 @@
 # 4. Binary Search
 
 ## Standard
-- [ ] ⭐⭐⭐⭐⭐ [Binary Search](https://leetcode.com/problems/binary-search/)
-- [ ] ⭐⭐⭐⭐⭐ [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] ⭐⭐⭐⭐ [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [ ] ⭐⭐⭐⭐ [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-- [ ] ⭐⭐⭐⭐ [First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [ ] ⭐⭐⭐⭐ [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [X] ⭐⭐⭐⭐⭐ [Binary Search](https://leetcode.com/problems/binary-search/)
+- [X] ⭐⭐⭐⭐⭐ [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [X] ⭐⭐⭐⭐ [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [X] ⭐⭐⭐⭐ [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [X] ⭐⭐⭐⭐ [First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [X] ⭐⭐⭐⭐ [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [ ] ⭐⭐⭐ [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - [ ] ⭐⭐⭐ [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
